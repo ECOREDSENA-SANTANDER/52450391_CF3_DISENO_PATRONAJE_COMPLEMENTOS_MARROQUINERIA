@@ -8,6 +8,8 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    p.mb-4 La marroquinería es un arte y una industria que combina diseño, funcionalidad y precisión en la confección de productos de cuero y otros materiales. Para garantizar la calidad y resistencia de estos artículos, es fundamental seguir un proceso técnico estructurado que abarca desde el diseño hasta el ensamblaje final; por tal razón, se presenta una guía paso a paso que facilitará la confección de productos de marroquinería, abordando técnicas clave como el armado, la costura y la aplicación de acabados.
     
     .row.justify-content-center.align-items-center           
       .col-lg-12
