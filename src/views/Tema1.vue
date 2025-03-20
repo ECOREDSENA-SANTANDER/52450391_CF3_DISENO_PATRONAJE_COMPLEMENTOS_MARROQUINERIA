@@ -84,9 +84,9 @@
         h3.mb-0.text-white.mx-2 Bolsillo con cierre
 
       p.mb-4 La función del bolsillo con cierre es permitir el almacenaje de objetos de forma segura y que no se salgan con el movimiento provocado por el usuario.
-      p.mb-5 El bolsillo con cierre requiere de un proceso de confección distinto al de otro tipo de bolsillos. Por ende, es necesario conocer y aplicar cada uno de los pasos que permiten la construcción adecuada del bolsillo con cierre.
+      p.mb-4 El bolsillo con cierre requiere de un proceso de confección distinto al de otro tipo de bolsillos. Por ende, es necesario conocer y aplicar cada uno de los pasos que permiten la construcción adecuada del bolsillo con cierre.
 
-      .row.fondo1.align-items-center.p-2.mb-5(data-aos="fade-down")
+      .row.fondo1.align-items-center.p-2.mb-4(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
           .row.justify-content-center.mb-4
           
@@ -124,11 +124,11 @@
 
       p.mb-4 En este espacio se expondrán diferentes etapas y variaciones en la confección de bolsos de pinza, con cambios en los colores, tamaños y detalles como solapas y bolsillos. Estos diseños permiten adaptar el modelo a diversas necesidades y estilos.
       
-      .row.fondo1.align-items-center.p-2(data-aos="fade-down")
+      .row.fondo1.align-items-center.p-2.mb-4(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
           .row.justify-content-center.mb-4
           
-          .titulo-sexto.color-secundario.mb-4.mt-4
+          .titulo-sexto.color-secundario.mb-4
             h5 Figura 4. 
             | Bolso de pinza y variaciones
           .row.justify-content-center.align-items-center.mb-3
@@ -141,7 +141,7 @@
                   img.mb-2(src='@/assets/curso/tema1/13.svg', alt='La figura ilustra diferentes variaciones en la confección de un bolso de pinza. Se presentan múltiples etapas y modificaciones en el diseño, destacando la combinación de piezas en colores naranja, verde y amarillo. En la parte superior, se ilustran variaciones en la estructura del bolsillo y su ensamblaje. En la parte inferior, se muestran distintas configuraciones del bolsillo con detalles en la costura y en el refuerzo superior. La secuencia general sugiere un proceso de construcción progresivo con distintas opciones de acabado.')
                 .col-lg-6.mb-2.ps-1
                   img.mb-2(src='@/assets/curso/tema1/14.svg', alt='La figura ilustra diferentes variaciones en la confección de un bolso de pinza. Se presentan múltiples etapas y modificaciones en el diseño, destacando la combinación de piezas en colores naranja, verde y amarillo. En la parte superior, se ilustran variaciones en la estructura del bolsillo y su ensamblaje. En la parte inferior, se muestran distintas configuraciones del bolsillo con detalles en la costura y en el refuerzo superior. La secuencia general sugiere un proceso de construcción progresivo con distintas opciones de acabado.')
-              figcaption.mb-4 Fuente: SENA
+              figcaption.mb-0 Fuente: SENA
 
       p.mb-4 Para confeccionar el bolso de pinza, lo primero que debe hacer es unir los porta cierres o falsos internos con los forros del cuerpo, si lo va a confeccionar con cierre, debe ubicarlo entre estas dos piezas y con los dientes del cierre encontrados con el porta cierre, debe realizar esta operación para ambas caras del bolso y así poder formar el cierre, una vez unidos debe poner la llave del cierre y pespuntar sobre el porta cierre.
 
