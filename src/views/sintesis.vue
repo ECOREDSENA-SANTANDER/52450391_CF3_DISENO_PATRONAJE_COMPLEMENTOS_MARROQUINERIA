@@ -10,7 +10,7 @@
           figure
             img(src="@/assets/curso/sintesis.svg", alt="La síntesis presenta cinco secciones: conceptos clave en marroquinería, confección de bolsillos, adquisición de competencias técnicas, confección de bolsos y artículos en cuero, y terminación y seguridad industrial. Incluye pasos detallados para la elaboración de bolsillos, tipos de bolsos y medidas de seguridad en el trabajo.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+        a.anexo.mb-0(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto

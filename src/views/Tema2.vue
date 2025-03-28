@@ -5,54 +5,54 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Terminación, empaque e higiene y seguridad industrial
 
-    p.mb-4 Terminación y empaque es la última fase del proceso de producción, en la que se realiza la limpieza y abrillantado del producto antes de su empaque, ya sea en bolsas o cajas de cartón.
-    p.mb-4 Las principales operaciones en esta etapa incluyen:
+    p.mb-4(data-aos="fade-left") Terminación y empaque es la última fase del proceso de producción, en la que se realiza la limpieza y abrillantado del producto antes de su empaque, ya sea en bolsas o cajas de cartón.
+    p.mb-4(data-aos="fade-right") Las principales operaciones en esta etapa incluyen:
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-md-6.mb-4
-        .overflow-hidden.h-100.bg5.p-3.p-lg-3.p-md-3(data-aos="fade-left")
+        .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-3(data-aos="fade-left")
           img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/1.png', alt='tema1')
           .row.justify-content-center.mb-4
-            .col-lg-10.ps-5
-              .bg6.p-2.mb-0
+            .col-lg-10.col-9.ps-4
+              .bg6.p-0.mb-0
                 p.text-center.mb-0.text-white #[b Limpieza]
           p.mb-2.text-center.ps-4 Eliminación de residuos y partículas.
       .col-lg-3.col-md-6.mb-4
-        .overflow-hidden.h-100.bg5.p-3.p-lg-3.p-md-2(data-aos="fade-left")
+        .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-2(data-aos="fade-left")
           img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/2.png', alt='tema1')
           .row.justify-content-center.mb-4
-            .col-lg-10.ps-5
-              .bg6.p-2.mb-0.overflow-hidden
+            .col-lg-10.col-9.ps-3
+              .bg6.p-0.mb-0.overflow-hidden
                p.text-center.mb-0.text-white #[b Acondicionamiento]
           p.mb-2.text-center.ps-4 Verificación de calidad y ajustes finales.
       .col-lg-3.col-md-6.mb-4
-        .overflow-hidden.h-100.bg5.p-3.p-lg-3.p-md-3(data-aos="fade-left")
+        .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-3(data-aos="fade-left")
           img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/3.png', alt='tema1')
           .row.justify-content-center.mb-4
-            .col-lg-10.ps-5
-              .bg6.p-2.mb-0
+            .col-lg-10.col-9.ps-4
+              .bg6.p-0.mb-0
                 p.text-center.mb-0.text-white #[b Reparación]
           p.mb-2.text-center.ps-4 Corrección de imperfecciones.
       .col-lg-3.col-md-6.mb-4
-        .overflow-hidden.h-100.bg5.p-3.p-lg-3.p-md-2(data-aos="fade-left")
+        .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-2(data-aos="fade-left")
           img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/4.png', alt='tema1')
           .row.justify-content-center.mb-3
-            .col-lg-10.ps-5
-              .bg6.p-2.mb-0.overflow-hidden
+            .col-lg-10.col-9.ps-4
+              .bg6.p-0.mb-0.overflow-hidden
                 p.text-center.mb-0.text-white #[b Brillo final]
-          p.mb-2.text-center.ps-4 Aplicación de tratamientos para mejorar la apariencia del producto.
+          p.mb-2.text-center.ps-5.ps-lg-4.ps-md-4 Aplicación de tratamientos para mejorar la apariencia del producto.
 
       
     .row.fondo4.align-items-center.p-2.mb-0(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4
         
-        p.mb-4 La higiene y seguridad industrial son esenciales para prevenir riesgos de accidentes y enfermedades en el entorno de trabajo. En la industria marroquinera, los operarios están expuestos a diversos peligros debido a la variedad de materiales, insumos, máquinas, equipos y herramientas empleados en la manufactura.
-        p.mb-4 Para garantizar un entorno seguro, es fundamental seguir estas recomendaciones:
+        p.mb-4(data-aos="fade-left") La higiene y seguridad industrial son esenciales para prevenir riesgos de accidentes y enfermedades en el entorno de trabajo. En la industria marroquinera, los operarios están expuestos a diversos peligros debido a la variedad de materiales, insumos, máquinas, equipos y herramientas empleados en la manufactura.
+        p.mb-4(data-aos="fade-right") Para garantizar un entorno seguro, es fundamental seguir estas recomendaciones:
         
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
           .col-lg-3.col-md-6.col-6
             img.mb-3(src='@/assets/curso/tema2/5.png', alt='')
           .col-lg-9
@@ -97,9 +97,9 @@
                 i.fas.fa-circle-check
                 p.mb-0 Guardar materiales, insumos y herramientas en estantes o armarios adecuados.
         
-        p.mb-4 Para garantizar la seguridad durante las operaciones, es necesario el uso de elementos de protección personal, que pueden incluir:
+        p.mb-4(data-aos="fade-left") Para garantizar la seguridad durante las operaciones, es necesario el uso de elementos de protección personal, que pueden incluir:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-12
         SlyderF.custom(columnas="col-lg-4 col-md-6 col-xl-4")
           .tarjeta.tarjeta--slyder.b1.p-5
@@ -139,13 +139,13 @@
             .bg6.p-2.mb-5
               h4.text-center.text-white.mb-0 Botas de seguridad
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .bg4.p-5
           p.mb-0 Es fundamental seguir estas prácticas seguras y recordar que cada operario es responsable de su seguridad y la de su entorno. Además, se deben adoptar posturas adecuadas en el puesto de trabajo y evitar el uso de accesorios como pulseras o anillos que puedan representar un riesgo. El cabello debe permanecer recogido en todo momento, y es imprescindible utilizar los elementos de seguridad correspondientes según la tarea a realizar.
     
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
         img(src='@/assets/curso/tema1/fin.png', alt='')
 </template>
