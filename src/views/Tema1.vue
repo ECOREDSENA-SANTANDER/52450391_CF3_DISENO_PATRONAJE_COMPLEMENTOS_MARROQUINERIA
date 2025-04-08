@@ -609,7 +609,7 @@
             | Perforaciones
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-8.mb-4
-              img.mb-3(src='@/assets/curso/tema1/41.svg', alt='La figura representa el proceso de perforación en el cinturón. Se observa la correa de color rojo con una hebilla amarilla asegurada mediante costuras. A lo largo de la correa, se han realizado perforaciones alineadas para permitir el ajuste de la hebilla. Un recuadro en tono verde resalta la sección donde se encuentran los orificios, indicando su ubicación y función dentro del diseño del cinturón.')
+              img.mb-3(src='@/assets/curso/tema1/41.svg', alt='La figura representa el proceso de perforación en el cinturón. Se observa la correa de color marrón con una hebilla amarilla asegurada mediante costuras. A lo largo de la correa, se han realizado perforaciones alineadas para permitir el ajuste de la hebilla. Un recuadro en tono verde resalta la sección donde se encuentran los orificios, indicando su ubicación y función dentro del diseño del cinturón.')
               figcaption.mb-3 Fuente: SENA
 
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
