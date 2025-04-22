@@ -127,7 +127,12 @@ figcaption
   background-position: center 
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
-    margin-inline: -1.4rem
+    margin-inline: -2.98rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+    background-size:  100% 100%
 
 .bg3
   background-color: #3B574D
@@ -208,13 +213,13 @@ figcaption
   background-position: center 
 
 
-.banner-principal__row 
-  background-image: url('../assets/curso/portada/fondo-banner-principal.png')
-  border-radius: 18px !important
-
-
-@media (max-width: 768px) 
-  .banner-principal__row  
-    background-image: url('../assets/curso/portada/fondo-banner-principal1.png')
-    border-radius: 18px !important
- 
+.banner-principal
+  @media (max-width: $bp-max-md)
+    .tarjeta
+      background-image: url('../assets/curso/portada/fondo-banner-principal_tablet.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 14% !important 
+      padding-right: 5% !important
