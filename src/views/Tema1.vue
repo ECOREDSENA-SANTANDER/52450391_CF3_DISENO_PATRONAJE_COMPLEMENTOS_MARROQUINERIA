@@ -26,14 +26,14 @@
         h2 1.1 Confección de bolsillos
       
       .row.justify-content-center.align-items-center.mb-2
-        .col-lg-5.col-md-9.col-9.mb-4
+        .col-lg-5.col-md-8.col-8.mb-4
           img.img-a.img-t(src='@/assets/curso/tema1/2.png', alt='')
         .col-lg-7.mb-4
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-2.col-md-9.col-9.mb-4.ps-0.pe-0
-              img.img-a.img-t(src='@/assets/curso/tema1/3.svg', alt='')
-            .col-lg-10.mb-4.ps-0
-              p.mb-2 La confección de bolsillos es un aspecto clave en la producción de accesorios como bolsos y billeteras, ya que cumplen diversas funciones que pueden diferenciar un producto de otro; existen principalmente dos tipos de bolsillos utilizados en este proceso:
+          .row.justify-content-center.align-items-center.mb-2
+            .col-lg-2.col-md-9.col-9
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/3.svg', alt='')
+            .col-lg-10
+              p.mb-3 La confección de bolsillos es un aspecto clave en la producción de accesorios como bolsos y billeteras, ya que cumplen diversas funciones que pueden diferenciar un producto de otro; existen principalmente dos tipos de bolsillos utilizados en este proceso:
           ul.lista-ul
             li.d-flex.mb-1
               i.fas.fa-circle-check
@@ -58,7 +58,7 @@
           img.mb-2(src='@/assets/curso/tema1/4.svg', alt='La figura representa un bolsillo diseñado para portar un celular, compuesto por un fondo con un patrón de lunares verdes sobre un fondo blanco. En el centro, se encuentra un rectángulo rojo dividido en dos secciones, que corresponde al bolsillo.')
           figcaption Fuente: SENA
         .col-lg-8.mb-4
-          .bg2.p-5
+          .bg2.p-lg-5.p-4
             p.mb-4.my-4 #[b Paso 1:] ubique de manera centrada el bolsillo en el forro, teniendo en cuenta las pinzas y dejando 5 cm en la parte superior. Una vez ubicado el bolsillo debe pasar una costura vertical a partir del cuarto punto superior al cuarto punto inferior.
             p.mb-4 #[b Paso 2:] pase costuras por el lateral derecho, luego por la parte inferior teniendo en cuenta realizar el doblez en cada marcación de puntos para confeccionar las pinzas del porta celular.
             p.mb-4 Por último, continúe la costura por el lateral izquierdo. Recuerde rematar al iniciar y al terminar cada costura.
@@ -96,24 +96,24 @@
           .row.justify-content-center.align-items-center.mb-3
             .col-lg-8.mb-4
               .row.justify-content-center.align-items-start.mb-0
-                .col-lg-4.col-md-9.mb-2
+                .col-lg-4.col-md-6.mb-2
                   img.mb-2(src='@/assets/curso/tema1/7.svg', alt='La figura expone un proceso de confección de un bolsillo con cierre, dividido en tres etapas. En los extremos izquierdo y derecho, se expone una pieza de tela verde unida a una base naranja, con un cierre amarillo en la parte superior, donde en el lado derecho se incluyen hilos sueltos. En la parte central, se ilustra la pieza con un patrón de puntos verdes sobre fondo blanco, con una abertura horizontal donde se ha incorporado el cierre amarillo, indicando el punto de integración del bolsillo en la superficie.')
-                .col-lg-4.col-md-9.mb-2
+                .col-lg-4.col-md-6.mb-2
                   img.mb-2(src='@/assets/curso/tema1/8.svg', alt='La figura expone un proceso de confección de un bolsillo con cierre, dividido en tres etapas. En los extremos izquierdo y derecho, se expone una pieza de tela verde unida a una base naranja, con un cierre amarillo en la parte superior, donde en el lado derecho se incluyen hilos sueltos. En la parte central, se ilustra la pieza con un patrón de puntos verdes sobre fondo blanco, con una abertura horizontal donde se ha incorporado el cierre amarillo, indicando el punto de integración del bolsillo en la superficie.')
-                .col-lg-4.col-md-9.mb-2
+                .col-lg-4.col-md-6.mb-2
                   img.mb-2(src='@/assets/curso/tema1/9.svg', alt='La figura expone un proceso de confección de un bolsillo con cierre, dividido en tres etapas. En los extremos izquierdo y derecho, se expone una pieza de tela verde unida a una base naranja, con un cierre amarillo en la parte superior, donde en el lado derecho se incluyen hilos sueltos. En la parte central, se ilustra la pieza con un patrón de puntos verdes sobre fondo blanco, con una abertura horizontal donde se ha incorporado el cierre amarillo, indicando el punto de integración del bolsillo en la superficie.')
               figcaption Fuente: SENA
 
-      .row.justify-content-center.align-items-center.mb-2
-        .col-lg-5.col-md-9.col-9.mb-4.ps-0.pe-0
-          img.mb-4(src='@/assets/curso/tema1/10.png', alt='')
-        .col-lg-7.mb-4.ps-0
-          .row.justify-content-center.align-items-start.mb-0
-            .col-lg-2.col-md-9.col-9.mb-4.ps-0.pe-0
-              img.img-a.img-t(src='@/assets/curso/tema1/11.svg', alt='')
-            .col-lg-10.mb-2.ps-0
-              p.mb-0 La elaboración del bolsillo con cierre se realizará sobre el forro opuesto, previamente preparado, utilizando el cartón y el cierre. Luego, se posicionará el forro interno del bolsillo, doblado 0.8 cm, de manera que la costura inferior coincida con la parte inferior del cierre. Sobre el derecho, se pasarán las costuras sin rematar ni al inicio ni al final.
-          p.mb-4 A continuación, retire el bolsillo de la máquina, dé vuelta y saque las hebras por el revés para anudarlas. Posteriormente, coloque el extremo inferior del forro interno del bolsillo sobre la parte superior del cierre. Con el derecho, inicie la costura en uno de los extremos de la costura inferior y recorra el contorno de la caja sin rematar al inicio ni al final; una vez finalizado, retire el bolsillo de la máquina, extraiga las hebras por el revés y anúdelas.
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-5.col-md-8.col-8
+          img.mb-0(src='@/assets/curso/tema1/10.png', alt='')
+        .col-lg-7.mb-0
+          .row.justify-content-center.align-items-center.mb-0
+            .col-lg-2.col-md-9.col-9.mb-4
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/11.png', alt='')
+            .col-lg-10.mb-2
+              p.mb-3 La elaboración del bolsillo con cierre se realizará sobre el forro opuesto, previamente preparado, utilizando el cartón y el cierre. Luego, se posicionará el forro interno del bolsillo, doblado 0.8 cm, de manera que la costura inferior coincida con la parte inferior del cierre. Sobre el derecho, se pasarán las costuras sin rematar ni al inicio ni al final.
+          p.mb-0 A continuación, retire el bolsillo de la máquina, dé vuelta y saque las hebras por el revés para anudarlas. Posteriormente, coloque el extremo inferior del forro interno del bolsillo sobre la parte superior del cierre. Con el derecho, inicie la costura en uno de los extremos de la costura inferior y recorra el contorno de la caja sin rematar al inicio ni al final; una vez finalizado, retire el bolsillo de la máquina, extraiga las hebras por el revés y anúdelas.
       
       p.mb-0(data-aos="fade-left") Por último, cierre los lados del bolsillo realizando una costura que remate al inicio y al final. De este modo, el bolsillo quedará oculto en el revés del forro principal, mostrando en el derecho únicamente el cierre.
      
@@ -235,7 +235,7 @@
               img.mb-3(src='@/assets/curso/tema1/20.svg', alt='La figura ilustra el proceso de unión de los laterales en la confección de un bolso o estuche. Se presentan varias etapas, comenzando con la adición de pequeños elementos a los costados. Luego, se incorpora un bolsillo adicional de otro color en la parte frontal. Posteriormente, se realizan costuras en los bordes laterales y superiores para asegurar la estructura. Finalmente, se añade una correa en la parte superior, completando el diseño funcional del objeto.')
               figcaption.mb-3 Fuente: SENA
 
-      .bg1.p-5.mb-0(data-aos="fade-left")
+      .bg1.p-lg-5.p-4.mb-0(data-aos="fade-left")
         p.mb-0 Una vez finalizadas las estructuras, fije las chapetas al cuerpo externo del bolso de manera simétrica y asegúrelas con pespunte. A continuación, doble el borde del forro hacia el revés y repita el mismo procedimiento con el bolso externo, aplicando solución de caucho en ambas piezas. Realice cortes de descarga en las uniones de costura superiores e introduzca el forro dentro del bolso exterior, asegurándolos con pespunte, como se ilustra en la figura. Por último, instale los herrajes y la cargadera según el diseño.
 
 
@@ -289,7 +289,7 @@
       
       p.mb-4(data-aos="fade-left") Finalmente, rodee los cuerpos con el giro y el cierre previamente unidos. Comience fijando una cara y luego la otra, asegurando una correcta alineación; para garantizar que el giro se mantenga en su lugar, aplique pespuntes con precisión y uniformidad.
 
-      .bg3.p-5.mb-4
+      .bg3.p-lg-5.p-4.mb-4
         p.mb-0.text-white.text-center #[b Vivo:] es una tira de material, generalmente de cuero o tela, que se coloca en los bordes de un bolso para reforzarlo y darle un acabado estético.
 
       p.mb-4(data-aos="fade-left") Para asegurar que el giro no se desplace, primero fíjelo con remates en la parte superior, inferior y en los puntos medios de los laterales, garantizando que el cierre quede alineado y equidistante en ambos lados. Finalmente, ribetee el interior e instale los herrajes y la cargadera según el diseño.
@@ -369,7 +369,7 @@
         h2 1.6 Confección de billetera femenina
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-9.fondo5.p-5.mb-4
+        .col-lg-9.fondo5.p-lg-5.p-4.mb-3
           .tarjeta.tarjeta--gris.p-4.my-4
             PasosB.color-acento-contenido
               .row.justify-content-center.align-items-center.my-4(titulo="Paso 1")
@@ -406,11 +406,11 @@
                     li.d-flex.mb-1
                       i.fas.fa-circle-check
                       p.mb-0 Usa tinta marroquinera para sellar los bordes y lograr un acabado profesional.
-        .col-lg-3.col-md-6.col-8
-          img.mb-3(src='@/assets/curso/tema1/28.png', alt='')
+        .col-lg-3.col-md-5.col-7.mb-3
+          img(src='@/assets/curso/tema1/28.png', alt='')
 
       
-      .row.fondo1.align-items-center.p-2.mb-5(data-aos="fade-down")
+      .row.fondo1.align-items-center.p-2.mb-0(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
           .row.justify-content-center.mb-4
           
@@ -424,20 +424,19 @@
 
 
 
-      .titulo-sexto.color-secundario
-        h5 Figura 19. 
-        | Cemento de contacto XL
-      .row.fondo2.align-items-center.p-2(data-aos="fade-down")
+      
+      .row.fondo2.align-items-center.p-lg-4.p-2(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
-          .row.justify-content-center.mb-4
-          
+          .titulo-sexto.color-secundario.my-lg-0.my-4
+            h5 Figura 19. 
+            | Cemento de contacto XL
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-8.mb-4
+            .col-lg-8.mb-0
               .row.justify-content-center.align-items-center.mb-0
-                .col-lg-3.col-md-2.col-3.mb-4
+                .col-lg-3.col-md-2.col-3.mb-4.my-4
                   img.mb-3.img-a.img-t(src='@/assets/curso/tema1/30.svg', alt='La figura presenta un recipiente que contiene cemento de contacto y tiene un diseño característico de productos adhesivos industriales.')
                 .col-lg-9.col-md-10.mb-4
-                  p.mb-4 Como referencia se adjunta este cemento de contacto XL que es un adhesivo ampliamente utilizado en diversas aplicaciones. En el mercado, se pueden encontrar múltiples marcas que ofrecen este tipo de producto, cada una con características y especificaciones particulares.
+                  p.mb-0 Como referencia se adjunta este cemento de contacto XL que es un adhesivo ampliamente utilizado en diversas aplicaciones. En el mercado, se pueden encontrar múltiples marcas que ofrecen este tipo de producto, cada una con características y especificaciones particulares.
               
       p.mb-4(data-aos="fade-left") Otra pieza que debe preparar es la parte superior, donde debe adherir el refuerzo al cuerpo de cuero por el revés, asegurándose de dejar libre un perímetro de 0.8 cm.
 
@@ -465,7 +464,7 @@
             h5 Figura 21. 
             | Billetera de cierre
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-3.col-md-9.mb-4
+            .col-lg-3.col-md-7.mb-4
               img.mb-3(src='@/assets/curso/tema1/32.svg', alt='La figura expone una billetera con cierre. Se distinguen diferentes materiales mediante colores, donde la parte superior es de tono azul y la inferior en naranja. Un cierre con dientes amarillos y un cursor metálico marca la división entre ambas secciones. En la parte superior derecha se incluyen líneas horizontales que podrían representar ranuras para tarjetas o un compartimento adicional dentro del diseño.')
               figcaption.mb-3 Fuente: SENA
   
@@ -614,7 +613,7 @@
 
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
         .col-lg-12
-          img(src='@/assets/curso/tema1/fin.png', alt='')
+          img.mb-0(src='@/assets/curso/tema1/fin.png', alt='')
           
         
   </template>

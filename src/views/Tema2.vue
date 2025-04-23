@@ -10,7 +10,7 @@
     p.mb-4(data-aos="fade-left") Terminación y empaque es la última fase del proceso de producción, en la que se realiza la limpieza y abrillantado del producto antes de su empaque, ya sea en bolsas o cajas de cartón.
     p.mb-4(data-aos="fade-right") Las principales operaciones en esta etapa incluyen:
     
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-0
       .col-lg-3.col-md-6.mb-4
         .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-3(data-aos="fade-left")
           img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/1.png', alt='tema1')
@@ -53,7 +53,7 @@
         p.mb-4(data-aos="fade-right") Para garantizar un entorno seguro, es fundamental seguir estas recomendaciones:
         
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-          .col-lg-3.col-md-6.col-6
+          .col-lg-3.col-md-5.col-6
             img.mb-3(src='@/assets/curso/tema2/5.png', alt='')
           .col-lg-9
             ul.lista-ul
@@ -141,7 +141,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
-        .bg4.p-5
+        .bg4.p-lg-5.p-4
           p.mb-0 Es fundamental seguir estas prácticas seguras y recordar que cada operario es responsable de su seguridad y la de su entorno. Además, se deben adoptar posturas adecuadas en el puesto de trabajo y evitar el uso de accesorios como pulseras o anillos que puedan representar un riesgo. El cabello debe permanecer recogido en todo momento, y es imprescindible utilizar los elementos de seguridad correspondientes según la tarea a realizar.
     
 
