@@ -480,7 +480,7 @@
   
       p.mb-4(data-aos="fade-left") Ahora es necesario unir al forro de la billetera el porta documentos, en la parte media derecha con costura en su lado derecho e inferior de forma que la parte inferior pueda ser cubierta con el lado superior del tapacosturas como se expone en la figura.
 
-      .row.fondo1.align-items-center.p-2.mb-4(data-aos="fade-down")
+      .row.fondo1.align-items-center.p-2.mb-5(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
           .row.justify-content-center.mb-4
           
@@ -494,7 +494,7 @@
   
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-5.col-md-7.col-9.mb-4
-          img.mb-0(src='@/assets/curso/tema1/bl6.svg', alt='')
+          img.mb-0(src='@/assets/curso/tema1/bl6.png', alt='')
         .col-lg-7.mb-0
           .row.justify-content-center.align-items-center.mb-lg-3.mb-md-4.mb-4
             .col-lg-2
