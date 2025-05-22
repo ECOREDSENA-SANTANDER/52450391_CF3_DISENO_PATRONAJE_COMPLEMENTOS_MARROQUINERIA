@@ -388,34 +388,34 @@
                   ul.lista-ul
                     li.d-flex.mb-1
                       i.fas.fa-circle-check
-                      p.mb-0 Aplica cemento de contacto XL en el reverso del primer porta documentos.
+                      p.mb-0 Aplicar cemento de contacto XL en el reverso del primer porta documentos.
                     li.d-flex.mb-1
                       i.fas.fa-circle-check
-                      p.mb-0 Adhiere el primer lado del forro en la parte inferior de la primera incisión.
+                      p.mb-0 Adherir el primer lado del forro en la parte inferior de la primera incisión.
               .row.justify-content-center.align-items-center(titulo="Paso 2")
                 .col-lg-10
                   h4.mb-4 Paso 2: fijación del otro extremo
                   ul.lista-ul
                     li.d-flex.mb-1
                       i.fas.fa-circle-check
-                      p.mb-0 Pega el otro extremo del forro en la parte superior de la misma abertura del porta documentos.
+                      p.mb-0 Pegar el otro extremo del forro en la parte superior de la misma abertura del porta documentos.
               .row.justify-content-center.align-items-center(titulo="Paso 3")
                 .col-lg-10
                   h4.mb-4 Paso 3: repetición del proceso
                   ul.lista-ul
                     li.d-flex.mb-1
                       i.fas.fa-circle-check
-                      p.mb-0 Realiza este procedimiento en cada abertura.
+                      p.mb-0 Realizar este procedimiento en cada abertura.
                     li.d-flex.mb-1
                       i.fas.fa-circle-check
-                      p.mb-0 Asegúrate de colocar el forro correspondiente en cada sección.
+                      p.mb-0 Asegúrese de colocar el forro correspondiente en cada sección.
               .row.justify-content-center.align-items-center(titulo="Paso 4")
                 .col-lg-10
                   h4.mb-4 Paso 4: sellado de bordes
                   ul.lista-ul
                     li.d-flex.mb-1
                       i.fas.fa-circle-check
-                      p.mb-0 Usa tinta marroquinera para sellar los bordes y lograr un acabado profesional.
+                      p.mb-0 Use tinta marroquinera para sellar los bordes y lograr un acabado profesional.
         .col-lg-3.col-md-5.col-7.mb-3
           img(src='@/assets/curso/tema1/28.png', alt='')
 
