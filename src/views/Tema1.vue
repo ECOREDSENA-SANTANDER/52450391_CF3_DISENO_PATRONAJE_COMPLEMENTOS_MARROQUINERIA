@@ -59,8 +59,8 @@
           figcaption Fuente: SENA
         .col-lg-8.mb-4
           .bg2.p-lg-5.p-4
-            p.mb-4.my-4 #[b Paso 1:] ubique de manera centrada el bolsillo en el forro, teniendo en cuenta las pinzas y dejando 5 cm en la parte superior. Una vez ubicado el bolsillo debe pasar una costura vertical a partir del cuarto punto superior al cuarto punto inferior.
-            p.mb-4 #[b Paso 2:] pase costuras por el lateral derecho, luego por la parte inferior teniendo en cuenta realizar el doblez en cada marcación de puntos para confeccionar las pinzas del porta celular.
+            p.mb-4.my-4 #[b Paso 1:] ubique de manera centrada el bolsillo en el forro, teniendo en cuenta las pinzas y dejando 5 cm en la parte superior. Una vez ubicado el bolsillo, debe pasar una costura vertical a partir del cuarto punto superior al cuarto punto inferior.
+            p.mb-4 #[b Paso 2:] realice la costura por el lateral derecho y luego por la parte inferior, asegurándose de hacer los dobleces en cada punto marcado para formar las pinzas del portacelular. Finalmente, continúe con la costura del lateral izquierdo. No olvide rematar al inicio y al final de cada costura.
             p.mb-4 Por último, continúe la costura por el lateral izquierdo. Recuerde rematar al iniciar y al terminar cada costura.
 
       .row.fondo1.align-items-center.p-2.mb-5(data-aos="fade-down")
@@ -271,7 +271,7 @@
               p.mb-4(data-aos="fade-left") En el bolso de giro, las chapetas se ubican en los laterales, específicamente en la parte superior del giro. Por ello, es fundamental confeccionarlas antes de unir el giro a los cuerpos. Estas deben fijarse con pespuntes de manera simétrica en ambos lados, considerando que su tamaño dependerá de los herrajes a utilizar. Es importante prestar especial atención durante su confección, asegurándose de unirlas únicamente al cuerpo exterior del giro. Para ello, se debe separar el giro de forro, de modo que el pespunte solo se aplique sobre el giro de cuero.
               br
               br
-              p.mb-4(data-aos="fade-right") Posteriormente, una los cuerpos con su respectivo forro mediante una costura en el perímetro. Una vez completado este paso, proceda a envivar ambos cuerpos. Para sellar corte un cuadro de 2 cm x 2 cm del mismo material del bolso, envuelva con él ambas puntas del “vivo” y remate para asegurar un acabado limpio.
+              p.mb-4(data-aos="fade-right") Posteriormente, una los cuerpos con su respectivo forro mediante una costura en el perímetro. Una vez completado este paso, proceda a envivar ambos cuerpos. Para sellar, corte un cuadro de 2 cm x 2 cm del mismo material del bolso, envuelva con él ambas puntas del “vivo” y remate para asegurar un acabado limpio.
 
       
       .row.fondo1.align-items-center.p-2.mb-4(data-aos="fade-down")
@@ -478,7 +478,7 @@
               img.mb-3(src='@/assets/curso/tema1/32.svg', alt='La figura expone una billetera con cierre. Se distinguen diferentes materiales mediante colores, donde la parte superior es de tono azul y la inferior en naranja. Un cierre con dientes amarillos y un cursor metálico marca la división entre ambas secciones. En la parte superior derecha se incluyen líneas horizontales que podrían representar ranuras para tarjetas o un compartimento adicional dentro del diseño.')
               figcaption.mb-3 Fuente: SENA
   
-      p.mb-4(data-aos="fade-left") Ahora es necesario unir al forro de la billetera el porta documentos, en la parte media derecha con costura en su lado derecho e inferior de forma que la parte inferior pueda ser cubierta con el lado superior del tapacosturas como se expone en la figura.
+      p.mb-4(data-aos="fade-left") Ahora es necesario unir el porta documentos al forro de la billetera, ubicándolo en la parte media derecha. Para ello, realice una costura por el lateral derecho y el borde inferior, de manera que este último quede cubierto posteriormente por la parte superior del tapacosturas, tal como se indica en la figura.
 
       .row.fondo1.align-items-center.p-2.mb-5(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -538,7 +538,7 @@
                       figcaption.mb-0 Fuente: SENA
                 .row.justify-content-center.align-items-center.p-0.p-lg-4
                   .col-lg-5
-                    p.mb-4(data-aos="fade-left") ¡Muy bien!, hemos completado con éxito la primera parte. Ahora el forro está listo con las piezas funcionales de la billetera. A continuación, se debe ubicar el broche en el falso superior de manera centrada. Generalmente, se utiliza un broche imán debido a su fácil instalación, asegurándose de que su parte funcional quede en el derecho del material del falso.
+                    p.mb-4(data-aos="fade-left") ¡Muy bien! Hemos completado con éxito la primera parte. Ahora el forro está listo con las piezas funcionales de la billetera. A continuación, se debe ubicar el broche en el falso superior de manera centrada. Generalmente, se utiliza un broche imán debido a su fácil instalación, asegurándose de que su parte funcional quede en el derecho del material del falso.
                     p.mb-4(data-aos="fade-right") Luego, doble la parte inferior del falso hacia el revés con solución de caucho, respetando un margen de 0.8 cm. Posteriormente, pespunte el borde inferior doblado del falso a la parte superior del forro, que ya contiene las piezas de la billetera.
                   .col-lg-7
                     .bs.p-lg-4.p-3.mb-4

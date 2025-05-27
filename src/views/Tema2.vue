@@ -9,40 +9,43 @@
 
     p.mb-4(data-aos="fade-left") Terminación y empaque es la última fase del proceso de producción, en la que se realiza la limpieza y abrillantado del producto antes de su empaque, ya sea en bolsas o cajas de cartón.
     p.mb-4(data-aos="fade-right") Las principales operaciones en esta etapa incluyen:
-    
-    .row.justify-content-center.align-items-center.mb-0
-      .col-lg-3.col-md-6.mb-4
-        .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-3(data-aos="fade-left")
-          img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/1.png', alt='tema1')
-          .row.justify-content-center.mb-4
-            .col-lg-10.col-9.ps-4
-              .bg6.p-0.mb-0
-                p.text-center.mb-0.text-white #[b Limpieza]
-          p.mb-2.text-center.ps-4 Eliminación de residuos y partículas.
-      .col-lg-3.col-md-6.mb-4
-        .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-2(data-aos="fade-left")
-          img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/2.png', alt='tema1')
-          .row.justify-content-center.mb-4
-            .col-lg-10.col-9.ps-3
-              .bg6.p-0.mb-0.overflow-hidden
-               p.text-center.mb-0.text-white #[b Acondicionamiento]
-          p.mb-2.text-center.ps-4 Verificación de calidad y ajustes finales.
-      .col-lg-3.col-md-6.mb-4
-        .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-3(data-aos="fade-left")
-          img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/3.png', alt='tema1')
-          .row.justify-content-center.mb-4
-            .col-lg-10.col-9.ps-4
-              .bg6.p-0.mb-0
-                p.text-center.mb-0.text-white #[b Reparación]
-          p.mb-2.text-center.ps-4 Corrección de imperfecciones.
-      .col-lg-3.col-md-6.mb-4
-        .overflow-hidden.h-100.bg5.p-3.p-lg-2.p-md-2(data-aos="fade-left")
-          img.img-a.img-t.mb-4.my-3.ps-4(src='@/assets/curso/tema2/4.png', alt='tema1')
+
+    .row.mb-0
+      .col-lg-3.col-md-6.mb-0(data-aos="fade-right")
+        .overflow-hidden.h-100.bg5.p-4.ps-5
+          img.img-a.img-t.mb-4(src='@/assets/curso/tema2/1.png', alt='tema1')
           .row.justify-content-center.mb-3
-            .col-lg-10.col-9.ps-4
-              .bg6.p-0.mb-0.overflow-hidden
-                p.text-center.mb-0.text-white #[b Brillo final]
-          p.mb-2.text-center.ps-5.ps-lg-4.ps-md-4 Aplicación de tratamientos para mejorar la apariencia del producto.
+            .col-10.mb-2
+              .bg6.p-1.mb-0
+                p.text-center.mb-0.text-white.txp #[b Limpieza]
+          p.mb-4.text-center Eliminación de residuos y partículas.
+      
+      .col-lg-3.col-md-6.mb-0(data-aos="fade-left")
+        .overflow-hidden.h-100.bg5.p-4.ps-5
+          img.img-a.img-t.mb-4(src='@/assets/curso/tema2/2.png', alt='tema1')
+          .row.justify-content-center.mb-3
+            .col-10.mb-2
+              .bg66.p-1.mb-0.mxt
+                p.text-center.mb-0.text-white.txp.ps-1.pe-1 #[b Acondicionamiento] 
+          p.mb-4.text-center Verificación de calidad y ajustes finales.
+      
+      .col-lg-3.col-md-6.mb-0(data-aos="fade-right")
+        .overflow-hidden.h-100.bg5.p-4.ps-5
+          img.img-a.img-t.mb-4(src='@/assets/curso/tema2/3.png', alt='tema1')
+          .row.justify-content-center.mb-3
+            .col-10.mb-2
+              .bg6.p-1.mb-0
+                p.text-center.mb-0.text-white.txp #[b Reparación]
+          p.mb-4.text-center Corrección de imperfecciones.
+      
+      .col-lg-3.col-md-6.mb-0(data-aos="fade-right")
+        .overflow-hidden.h-100.bg5.p-4.ps-5
+          img.img-a.img-t.mb-4(src='@/assets/curso/tema2/4.png', alt='tema1')
+          .row.justify-content-center.mb-3
+            .col-10.mb-2
+              .bg6.p-1.mb-0
+                p.text-center.mb-0.text-white.txp #[b Brillo final] 
+          p.mb-4.text-center Aplicación de tratamientos para mejorar la apariencia del producto.
 
       
     .row.fondo4.align-items-center.p-2.mb-0(data-aos="fade-down")
