@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="133.286" viewBox="0 0 820 133.286">
+  <g id="Grupo_1107074" data-name="Grupo 1107074" transform="translate(-390 -9703.456)">
+    <g id="Grupo_1106593" data-name="Grupo 1106593" transform="translate(0 -31.468)">
+      <rect id="Rectángulo_402162" data-name="Rectángulo 402162" width="100.384" height="121" rx="4" transform="translate(390 9734.924)" fill="#e38300"/>
+      <rect id="Rectángulo_402173" data-name="Rectángulo 402173" width="100.384" height="121" rx="4" transform="translate(672 9734.924)" fill="#e38300"/>
+      <rect id="Rectángulo_402175" data-name="Rectángulo 402175" width="100.384" height="121" rx="4" transform="translate(806 9734.924)" fill="#85c026"/>
+      <rect id="Rectángulo_402184" data-name="Rectángulo 402184" width="16.384" height="13.71" rx="1" transform="translate(848 9854.5)" fill="#85c026"/>
+      <rect id="Rectángulo_402178" data-name="Rectángulo 402178" width="100.384" height="121" rx="4" transform="translate(1000 9734.924)" fill="#3b574d"/>
+      <rect id="Rectángulo_402180" data-name="Rectángulo 402180" width="100.384" height="121" rx="4" transform="translate(1109.616 9734.924)" fill="#3b574d"/>
+      <rect id="Rectángulo_402171" data-name="Rectángulo 402171" width="100.384" height="121" rx="4" transform="translate(499.616 9734.924)" fill="#85c026"/>
+      <g id="Grupo_1106592" data-name="Grupo 1106592" transform="translate(472.192 9802.006) rotate(-90)">
+        <path id="Polígono_5" data-name="Polígono 5" d="M11.388,0,22.776,21.637H0Z" transform="translate(23.214 42.135) rotate(180)" fill="#0058c9"/>
+        <rect id="Rectángulo_402097" data-name="Rectángulo 402097" width="10.249" height="23.915" transform="translate(7.247)" fill="#0058c9"/>
+      </g>
+      <g id="Rectángulo_402174" data-name="Rectángulo 402174" transform="translate(676 9739.924)" fill="none" stroke="#eaded2" stroke-width="2" stroke-dasharray="8 3">
+        <rect width="92.384" height="111" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="90.384" height="109" rx="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_402176" data-name="Rectángulo 402176" transform="translate(810 9739.924)" fill="none" stroke="#eaded2" stroke-width="2" stroke-dasharray="8 3">
+        <rect width="92.384" height="111" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="90.384" height="109" rx="3" fill="none"/>
+      </g>
+      <rect id="Rectángulo_402179" data-name="Rectángulo 402179" width="92.384" height="114.785" rx="4" transform="translate(1004 9738.031)" fill="#85c026"/>
+      <rect id="Rectángulo_402181" data-name="Rectángulo 402181" width="92.384" height="114.785" rx="4" transform="translate(1113.616 9738.031)" fill="#85c026"/>
+      <g id="Rectángulo_402177" data-name="Rectángulo 402177" transform="translate(1002 9735.924)" fill="none" stroke="#eaded2" stroke-width="1" stroke-dasharray="8 3">
+        <rect width="96.384" height="119" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="95.384" height="118" rx="3.5" fill="none"/>
+      </g>
+      <g id="Rectángulo_402182" data-name="Rectángulo 402182" transform="translate(1111.616 9735.924)" fill="none" stroke="#eaded2" stroke-width="1" stroke-dasharray="8 3">
+        <rect width="96.384" height="119" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="95.384" height="118" rx="3.5" fill="none"/>
+      </g>
+      <rect id="Rectángulo_402183" data-name="Rectángulo 402183" width="120" height="7" transform="translate(858.051 9851)" fill="#3b574d"/>
+      <rect id="Rectángulo_402185" data-name="Rectángulo 402185" width="16.384" height="10.286" rx="1" transform="translate(1038 9851.816)" fill="#85c026"/>
+      <rect id="Rectángulo_402186" data-name="Rectángulo 402186" width="16.384" height="10.286" rx="1" transform="translate(1151.616 9851.816)" fill="#85c026"/>
+    </g>
+  </g>
+</svg>
